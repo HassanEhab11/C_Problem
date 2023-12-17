@@ -1,4 +1,13 @@
-#include <stdio.h>
+/*
+ * ----------------------------------------------------------------------------
+ * Filename	  : bubbleSort.c
+ * Author	  : Hassan Ehab
+ * Created on : sunday, December 17, 2023
+ * Last edited: sunday, December 17, 2023
+ * Description: Bubble Sort Algorithm .
+ * ----------------------------------------------------------------------------
+ */
+ #include <stdio.h>
 
 void swap(int *num1, int *num2)
 {
